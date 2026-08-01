@@ -1,5 +1,10 @@
 # Enterprise Network Design with Cisco Packet Tracer
 
+![Cisco](https://img.shields.io/badge/Cisco-Packet%20Tracer-blue)
+![Networking](https://img.shields.io/badge/Networking-IPv4-green)
+![ACL](https://img.shields.io/badge/Security-ACL-red)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+
 ## Project Overview
 
 This project demonstrates the design and implementation of a secure enterprise network using Cisco Packet Tracer. The network consists of three departments (Sales, Human Resources, and IT), each connected through dedicated switches to a Cisco router. Static IPv4 addressing, inter-network routing, and an Extended Access Control List (ACL) were configured to enforce network security policies.
